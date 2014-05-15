@@ -1,0 +1,30 @@
+#registerField, #registredWorkersField {
+  width: 350px;
+  padding: 20px; }
+
+.submitButton {
+  margin-top: 10px;
+  margin-left: 10px; }
+
+.listElementFull {
+  padding: 2px;
+  display: none; }
+
+.listElementLabel {
+  padding: 5px; }
+
+.listElementEditArea {
+  display: none; }
+
+.listElementButtnDiv {
+  float: right; }
+
+/*.buttnRemove
+{
+	float: right;
+}
+
+.buttnEdit
+{
+	float: right;
+}*/
